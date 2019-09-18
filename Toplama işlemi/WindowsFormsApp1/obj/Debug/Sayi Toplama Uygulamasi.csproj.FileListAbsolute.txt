@@ -1,0 +1,20 @@
+C:\Users\Muhammed\Desktop\C# OOP Dersleri\Ders 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Muhammed\Desktop\C# OOP Dersleri\Ders 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Muhammed\Desktop\C# OOP Dersleri\Ders 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Muhammed\Desktop\C# OOP Dersleri\Ders 1\WindowsFormsApp1\obj\Debug\Sayi Toplama Uygulamasi.csprojAssemblyReference.cache
+C:\Users\Muhammed\Desktop\C# OOP Dersleri\Ders 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Muhammed\Desktop\C# OOP Dersleri\Ders 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\C# OOP Dersleri\Ders 1\WindowsFormsApp1\obj\Debug\Sayi Toplama Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Muhammed\Desktop\C# OOP Dersleri\Ders 1\WindowsFormsApp1\obj\Debug\Sayi Toplama Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\C# OOP Dersleri\Ders 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Muhammed\Desktop\C# OOP Dersleri\Ders 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Muhammed\Desktop\C# OOP Dersleri OKUL\Toplama işlemi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Muhammed\Desktop\C# OOP Dersleri OKUL\Toplama işlemi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Muhammed\Desktop\C# OOP Dersleri OKUL\Toplama işlemi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Muhammed\Desktop\C# OOP Dersleri OKUL\Toplama işlemi\WindowsFormsApp1\obj\Debug\Sayi Toplama Uygulamasi.csprojAssemblyReference.cache
+C:\Users\Muhammed\Desktop\C# OOP Dersleri OKUL\Toplama işlemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Muhammed\Desktop\C# OOP Dersleri OKUL\Toplama işlemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\C# OOP Dersleri OKUL\Toplama işlemi\WindowsFormsApp1\obj\Debug\Sayi Toplama Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Muhammed\Desktop\C# OOP Dersleri OKUL\Toplama işlemi\WindowsFormsApp1\obj\Debug\Sayi Toplama Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\C# OOP Dersleri OKUL\Toplama işlemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Muhammed\Desktop\C# OOP Dersleri OKUL\Toplama işlemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

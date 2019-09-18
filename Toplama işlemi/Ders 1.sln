@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sayi Toplama Uygulamasi", "WindowsFormsApp1\Sayi Toplama Uygulamasi.csproj", "{F05F914A-8D7F-43C1-90A3-0E9B0E41C947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F05F914A-8D7F-43C1-90A3-0E9B0E41C947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05F914A-8D7F-43C1-90A3-0E9B0E41C947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05F914A-8D7F-43C1-90A3-0E9B0E41C947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05F914A-8D7F-43C1-90A3-0E9B0E41C947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FE0F4FE-F0EE-44E0-9F8C-F3ED8347A7E8}
+	EndGlobalSection
+EndGlobal

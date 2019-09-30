@@ -1,0 +1,20 @@
+C:\Users\Muhammed\Desktop\Odev 1\Odev 1\bin\Debug\Odev 1.exe.config
+C:\Users\Muhammed\Desktop\Odev 1\Odev 1\bin\Debug\Odev 1.exe
+C:\Users\Muhammed\Desktop\Odev 1\Odev 1\bin\Debug\Odev 1.pdb
+C:\Users\Muhammed\Desktop\Odev 1\Odev 1\obj\Debug\Odev 1.csprojAssemblyReference.cache
+C:\Users\Muhammed\Desktop\Odev 1\Odev 1\obj\Debug\Odev_1.Form1.resources
+C:\Users\Muhammed\Desktop\Odev 1\Odev 1\obj\Debug\Odev_1.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\Odev 1\Odev 1\obj\Debug\Odev 1.csproj.GenerateResource.cache
+C:\Users\Muhammed\Desktop\Odev 1\Odev 1\obj\Debug\Odev 1.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\Odev 1\Odev 1\obj\Debug\Odev 1.exe
+C:\Users\Muhammed\Desktop\Odev 1\Odev 1\obj\Debug\Odev 1.pdb
+C:\Users\Muhammed\Desktop\Tek Çift Asal ve Armstrong Sayilarla İşlemler\Odev 1\bin\Debug\Odev 1.exe.config
+C:\Users\Muhammed\Desktop\Tek Çift Asal ve Armstrong Sayilarla İşlemler\Odev 1\bin\Debug\Odev 1.exe
+C:\Users\Muhammed\Desktop\Tek Çift Asal ve Armstrong Sayilarla İşlemler\Odev 1\bin\Debug\Odev 1.pdb
+C:\Users\Muhammed\Desktop\Tek Çift Asal ve Armstrong Sayilarla İşlemler\Odev 1\obj\Debug\Odev 1.csprojAssemblyReference.cache
+C:\Users\Muhammed\Desktop\Tek Çift Asal ve Armstrong Sayilarla İşlemler\Odev 1\obj\Debug\Odev_1.form1.resources
+C:\Users\Muhammed\Desktop\Tek Çift Asal ve Armstrong Sayilarla İşlemler\Odev 1\obj\Debug\Odev_1.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\Tek Çift Asal ve Armstrong Sayilarla İşlemler\Odev 1\obj\Debug\Odev 1.csproj.GenerateResource.cache
+C:\Users\Muhammed\Desktop\Tek Çift Asal ve Armstrong Sayilarla İşlemler\Odev 1\obj\Debug\Odev 1.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\Tek Çift Asal ve Armstrong Sayilarla İşlemler\Odev 1\obj\Debug\Odev 1.exe
+C:\Users\Muhammed\Desktop\Tek Çift Asal ve Armstrong Sayilarla İşlemler\Odev 1\obj\Debug\Odev 1.pdb

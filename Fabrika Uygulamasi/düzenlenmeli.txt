@@ -1,0 +1,4 @@
+FABRIKA UYGULAMASI
+* textboxlar temizlenmeli ekleme islemi sonrasinda
+* textbox listeleme düzgün çalismiyor
+* dizayni güzellestirmeli

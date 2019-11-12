@@ -1,0 +1,20 @@
+C:\Users\Muhammed\Desktop\Fabrika Uygulamasi\Fabrika Uygulamasi\bin\Debug\Fabrika Uygulamasi.exe.config
+C:\Users\Muhammed\Desktop\Fabrika Uygulamasi\Fabrika Uygulamasi\bin\Debug\Fabrika Uygulamasi.exe
+C:\Users\Muhammed\Desktop\Fabrika Uygulamasi\Fabrika Uygulamasi\bin\Debug\Fabrika Uygulamasi.pdb
+C:\Users\Muhammed\Desktop\Fabrika Uygulamasi\Fabrika Uygulamasi\obj\Debug\Fabrika Uygulamasi.csprojAssemblyReference.cache
+C:\Users\Muhammed\Desktop\Fabrika Uygulamasi\Fabrika Uygulamasi\obj\Debug\Fabrika_Uygulamasi.Form1.resources
+C:\Users\Muhammed\Desktop\Fabrika Uygulamasi\Fabrika Uygulamasi\obj\Debug\Fabrika_Uygulamasi.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\Fabrika Uygulamasi\Fabrika Uygulamasi\obj\Debug\Fabrika Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Muhammed\Desktop\Fabrika Uygulamasi\Fabrika Uygulamasi\obj\Debug\Fabrika Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\Fabrika Uygulamasi\Fabrika Uygulamasi\obj\Debug\Fabrika Uygulamasi.exe
+C:\Users\Muhammed\Desktop\Fabrika Uygulamasi\Fabrika Uygulamasi\obj\Debug\Fabrika Uygulamasi.pdb
+C:\Users\Muhammed\Desktop\WBU\c# oop örneklerii\Fabrika Uygulamasi\Fabrika Uygulamasi\bin\Debug\Fabrika Uygulamasi.exe.config
+C:\Users\Muhammed\Desktop\WBU\c# oop örneklerii\Fabrika Uygulamasi\Fabrika Uygulamasi\bin\Debug\Fabrika Uygulamasi.exe
+C:\Users\Muhammed\Desktop\WBU\c# oop örneklerii\Fabrika Uygulamasi\Fabrika Uygulamasi\bin\Debug\Fabrika Uygulamasi.pdb
+C:\Users\Muhammed\Desktop\WBU\c# oop örneklerii\Fabrika Uygulamasi\Fabrika Uygulamasi\obj\Debug\Fabrika Uygulamasi.csprojAssemblyReference.cache
+C:\Users\Muhammed\Desktop\WBU\c# oop örneklerii\Fabrika Uygulamasi\Fabrika Uygulamasi\obj\Debug\Fabrika_Uygulamasi.Form1.resources
+C:\Users\Muhammed\Desktop\WBU\c# oop örneklerii\Fabrika Uygulamasi\Fabrika Uygulamasi\obj\Debug\Fabrika_Uygulamasi.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\WBU\c# oop örneklerii\Fabrika Uygulamasi\Fabrika Uygulamasi\obj\Debug\Fabrika Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Muhammed\Desktop\WBU\c# oop örneklerii\Fabrika Uygulamasi\Fabrika Uygulamasi\obj\Debug\Fabrika Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\WBU\c# oop örneklerii\Fabrika Uygulamasi\Fabrika Uygulamasi\obj\Debug\Fabrika Uygulamasi.exe
+C:\Users\Muhammed\Desktop\WBU\c# oop örneklerii\Fabrika Uygulamasi\Fabrika Uygulamasi\obj\Debug\Fabrika Uygulamasi.pdb

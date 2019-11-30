@@ -1,0 +1,2 @@
+bu örnek oop'de Polymorphism kavramini daha iyi anlamak için yapildi.
+

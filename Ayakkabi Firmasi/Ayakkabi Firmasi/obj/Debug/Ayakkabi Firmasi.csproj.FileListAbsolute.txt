@@ -1,0 +1,9 @@
+C:\Users\Muhammed\Desktop\Ayakkabi Firmasi\Ayakkabi Firmasi\bin\Debug\Ayakkabi Firmasi.exe.config
+C:\Users\Muhammed\Desktop\Ayakkabi Firmasi\Ayakkabi Firmasi\bin\Debug\Ayakkabi Firmasi.exe
+C:\Users\Muhammed\Desktop\Ayakkabi Firmasi\Ayakkabi Firmasi\bin\Debug\Ayakkabi Firmasi.pdb
+C:\Users\Muhammed\Desktop\Ayakkabi Firmasi\Ayakkabi Firmasi\obj\Debug\Ayakkabi Firmasi.csprojAssemblyReference.cache
+C:\Users\Muhammed\Desktop\Ayakkabi Firmasi\Ayakkabi Firmasi\obj\Debug\Ayakkabi_Firmasi.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\Ayakkabi Firmasi\Ayakkabi Firmasi\obj\Debug\Ayakkabi Firmasi.csproj.GenerateResource.cache
+C:\Users\Muhammed\Desktop\Ayakkabi Firmasi\Ayakkabi Firmasi\obj\Debug\Ayakkabi Firmasi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\Ayakkabi Firmasi\Ayakkabi Firmasi\obj\Debug\Ayakkabi Firmasi.exe
+C:\Users\Muhammed\Desktop\Ayakkabi Firmasi\Ayakkabi Firmasi\obj\Debug\Ayakkabi Firmasi.pdb

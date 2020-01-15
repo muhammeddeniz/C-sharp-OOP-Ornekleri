@@ -1,0 +1,9 @@
+C:\Users\Muhammed\Desktop\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\Muhammed\Desktop\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\Muhammed\Desktop\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\Muhammed\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csprojAssemblyReference.cache
+C:\Users\Muhammed\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\Muhammed\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\Muhammed\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
